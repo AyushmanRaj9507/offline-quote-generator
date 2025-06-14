@@ -1,20 +1,42 @@
-<<<<<<< HEAD
-# Random Quote Generator
+# 🧠 Offline Quote Generator
 
-## Take a look -  https://saliyavivek.github.io/Quote-Generator-Project/
+Welcome to the **Offline Quote Generator** — a simple web app that displays a new inspiring quote every time you click a button. Works 100% offline, no API needed!
 
-## An API-based Quote Generator Web Application designed to provide users with a diverse range of quotes for inspiration, motivation, and reflection. 
+---
 
-## With just a few clicks, you can browse through a vast collection of quotes from famous authors, thought leaders, and other inspiring figures.
+## 📸 Preview
 
-## Technologies used :
-   1. HTML
-   2. CSS
-   3. JavaScript
+![Preview Screenshot](screenshot.png) <!-- add screenshot if available -->
 
-## API used :
-   Quote Garden API - https://quote-garden.onrender.com/api/v3/quotes
-=======
-# offline-quote-generator
-"This is a simple quote generator built using HTML ,CSS &amp; JS. It showcases quotes in a grid layout with basic styling and responsive design
->>>>>>> 239e4f0a7c3fbcd1159f3123468e0df0fad297cf
+---
+
+## ✨ Features
+
+- ✅ Displays motivational quotes
+- ✅ Fully offline — no API dependency
+- ✅ Built using HTML, CSS & JavaScript
+- ✅ Fast & lightweight
+- ✅ Beginner-friendly project
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/AyushmanRaj9507/offline-quote-generator.git
+
+
+---
+
+## 🟩 Instructions to Use
+
+1. Create a file named `README.md` in your project folder (`offline-quote-generator`)
+2. Paste the content above
+3. Git me add karo:
+
+```bash
+git add README.md
+git commit -m "Added professional README"
+git push origin main
